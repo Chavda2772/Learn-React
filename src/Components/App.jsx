@@ -1,6 +1,6 @@
 import { Component } from 'react';
 import StarMatch from './StartMatch';
-import './App.css';
+import '../Styles/App.css';
 
 class App extends Component {
   render() {
